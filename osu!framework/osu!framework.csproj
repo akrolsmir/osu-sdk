@@ -43,6 +43,7 @@
     <Compile Include="GameModes\Edit\AiMod\Reports\AiReportDifficulty.cs" />
     <Compile Include="GameModes\Edit\AiMod\Reports\AiReportOneObject.cs" />
     <Compile Include="GameModes\Edit\AiMod\Reports\AiReportTwoObjects.cs" />
+    <Compile Include="GameModes\Edit\AiMod\Reports\AiSnappingOrig.cs" />
     <Compile Include="GameplayElements\HitObjects\HitObjectBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

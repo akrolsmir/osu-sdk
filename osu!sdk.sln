@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 11
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu!framework", "osu!framework\osu!framework.csproj", "{61AA9909-A6FB-4DC3-91BA-AC4B9556C8A5}"
 EndProject
 Global
